@@ -1,0 +1,19 @@
+{
+"estado": ,
+                "data":[
+                              {
+                              "DIRECCION":"",
+                              "MONTO_FACTURAS":"",
+                              "RUC":"",
+                              "CORREO":"",
+                              "ID_SOLICITUD":"",
+                              "ID_USUARIO":"",
+                              "N_FACTURAS":"",
+                              "FECHA_SOLICITUD":"¨,
+                              "ID_EMPRESA": "",
+                              "TELEFONO":"",
+                              "JSON_SOLICITUD":"",
+                              "RAZON_SOCIAL":""
+                              }
+               ]
+}
